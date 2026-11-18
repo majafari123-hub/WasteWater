@@ -1,0 +1,5 @@
+# BSM1 simulator dependencies
+numpy>=1.24
+scipy>=1.10
+qsdsan==1.5.3
+git+https://github.com/QSD-Group/EXPOsan.git@main
